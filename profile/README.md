@@ -15,6 +15,16 @@ We're passionate about solving challenging problems at the forefront of Web3 tec
 * Web3 Security: Identifying and mitigating vulnerabilities within the Web3 ecosystem.
 * Cutting-Edge Protocols & EIPs: Active participation in shaping the future of Ethereum through EIP contributions (e.g., EIP-7702, EIP-2537, EOF).
 
-## Contract Us
+## Projects
+
+* [parallel-evm-explorer](https://github.com/longcipher/parallel-evm-explorer): A parallel EVM explorer to show analysed parallel EVM data.
+* [calldata-compressor-rs](https://github.com/longcipher/calldata-compressor-rs): A calldata compressor to save DA cost.
+* [pevm-go](https://github.com/longcipher/pevm-go): parallel evm engine for go-ethereum.
+
+## Video Sharings
+
+Follow us on youtube [@longcipher](https://www.youtube.com/@longcipher)
+
+## Contract us
 
 We are a serious team. If you're interested in collaborating with us or join us, please contact [@Akagi201](https://t.me/Akagi201)
