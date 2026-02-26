@@ -1,30 +1,35 @@
+
+
+
+
 # LongCipher Lab
 
-LongCipher Lab is a grant-funded research team focused on pushing the boundaries of Web3 infrastructure. We're a small, highly impactful group making waves in the EVM ecosystem, backed by grants from Optimism Retro Funding, Argot Collective, Ethereum ESP, and the Ethereum Foundation (EF).
+**LongCipher Lab** is a research-driven development team building high-performance Web3 infrastructure, primarily in **Rust**.
 
-## Our Focus
+## 🔬 Our Focus
 
-We're passionate about solving challenging problems at the forefront of Web3 technology. Our current research areas include:
+We tackle challenging problems at the frontier of Web3 technology. Our core research and engineering areas include:
 
-* MEV Trading & Strategies: Developing innovative techniques for maximizing extractable value.
-* High-Performance EVM Chains: Exploring parallel EVM architectures and optimizations.
-* PBS Pipelines & Tools: Building and improving tools for proposer-builder separation, particularly for Layer-2 solutions.
-* Based Rollups: Investigating and contributing to the development of this promising scaling solution.
-* Preconfirmation Techniques: Advancing preconfirmation methods for improved transaction efficiency.
-* AI in Trading & Data Analysis: Leveraging AI/ML for enhanced market prediction and data insights.
-* Web3 Security: Identifying and mitigating vulnerabilities within the Web3 ecosystem.
-* Cutting-Edge Protocols & EIPs: Active participation in shaping the future of Ethereum through EIP contributions (e.g., EIP-7702, EIP-2537, EOF).
+*   **MEV Strategies:** Advanced techniques for maximizing extractable value and market efficiency.
+*   **High-Performance EVM:** Exploring parallel execution architectures and low-level chain optimizations.
+*   **PBS Pipelines:** Robust Proposer-Builder Separation tooling, with a strong focus on Layer-2 ecosystems.
+*   **Scaling Solutions:** Advancing **Based Rollups** and **Preconfirmation** mechanisms for sub-second transaction finality.
+*   **Applied AI:** Leveraging machine learning for market prediction, quantitative trading, and on-chain data insights.
+*   **Web3 Security:** Proactively identifying and mitigating vulnerabilities across smart contracts and protocols.
+*   **Protocol Research:** Active involvement in Ethereum core development and standardization (e.g., EIP-7702, EIP-2537, EOF).
 
-## Projects
+## 💻 Projects
 
-* [parallel-evm-explorer](https://github.com/longcipher/parallel-evm-explorer): A parallel EVM explorer to show analysed parallel EVM data.
-* [calldata-compressor-rs](https://github.com/longcipher/calldata-compressor-rs): A calldata compressor to save DA cost.
-* [pevm-go](https://github.com/longcipher/pevm-go): parallel evm engine for go-ethereum.
+*   [**LedgerFlow**](https://ledgerflow.longcipher.com/) — AI-Native Payment System
+*   [**Unify**](https://unify.longcipher.com/) — Hybrid Perps DEX
+*   *Explore more on [longcipher.com](https://longcipher.com)*
 
-## Video Sharings
+## 🌐 Community & Socials
 
-Follow us on youtube [@longcipher](https://www.youtube.com/@longcipher)
+*   **X (Twitter):**[@LongCipherLab](https://x.com/longcipherlab) | [华语 @LongCipherLabCN](https://x.com/longcipherlabcn)
+*   **Chat:** [Discord](https://discord.gg/ydBJspD) | [Telegram](https://t.me/longcipher)
+*   **Video:**[YouTube](https://www.youtube.com/@longcipher) | [BiliBili](https://space.bilibili.com/423764) | [Douyin](https://www.douyin.com/user/MS4wLjABAAAAlENSh4vnOdWRdA0Mguky9yXgxME6BEq2UlSZR4ayHLVEjEfL1whPECtr2USgNJ1i)
 
-## Contract us
+## 📮 Contact
 
-We are a serious team. If you're interested in collaborating with us or join us, please contact [@Akagi201](https://t.me/Akagi201)
+For business partnerships and inquiries, reach out at: **[hi@longcipher.com](mailto:hi@longcipher.com)**
