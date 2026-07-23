@@ -26,7 +26,7 @@ We tackle challenging problems at the frontier of Web3 technology. Our core rese
 
 * **X (Twitter):**[@LongCipherLab](https://x.com/longcipherlab) | [华语 @LongCipherLabCN](https://x.com/longcipherlabcn)
 * **Chat:** [Discord](https://discord.gg/ydBJspD) | [Telegram](https://t.me/longcipher)
-* **Video:**[YouTube](https://www.youtube.com/@longcipher) | [BiliBili](https://space.bilibili.com/423764) | [Douyin](https://www.douyin.com/user/MS4wLjABAAAAlENSh4vnOdWRdA0Mguky9yXgxME6BEq2UlSZR4ayHLVEjEfL1whPECtr2USgNJ1i)
+* **Video:**[YouTube](https://www.youtube.com/@longcipher) | [BiliBili](https://space.bilibili.com/423764)
 
 ## 📮 Contact
 
